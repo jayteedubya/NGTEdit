@@ -1,0 +1,14 @@
+/home/jake/repos/NGTEdit/bin/Debug/net8.0/NGTEdit
+/home/jake/repos/NGTEdit/bin/Debug/net8.0/NGTEdit.deps.json
+/home/jake/repos/NGTEdit/bin/Debug/net8.0/NGTEdit.runtimeconfig.json
+/home/jake/repos/NGTEdit/bin/Debug/net8.0/NGTEdit.dll
+/home/jake/repos/NGTEdit/bin/Debug/net8.0/NGTEdit.pdb
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.GeneratedMSBuildEditorConfig.editorconfig
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.AssemblyInfoInputs.cache
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.AssemblyInfo.cs
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.csproj.CoreCompileInputs.cache
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.dll
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/refint/NGTEdit.dll
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.pdb
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.genruntimeconfig.cache
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/ref/NGTEdit.dll
