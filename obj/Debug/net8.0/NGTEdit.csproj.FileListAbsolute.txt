@@ -12,3 +12,4 @@
 /home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.pdb
 /home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.genruntimeconfig.cache
 /home/jake/repos/NGTEdit/obj/Debug/net8.0/ref/NGTEdit.dll
+/home/jake/repos/NGTEdit/obj/Debug/net8.0/NGTEdit.sourcelink.json
