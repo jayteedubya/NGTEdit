@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NGTEdit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25eb9bfe5d28ebe823a4cad2e43b97e069e61561")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b6f78422743cc4af0d42c26997f4d7316855d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NGTEdit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NGTEdit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
